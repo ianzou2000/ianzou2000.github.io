@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jie ZOU"
-  avatar           : "![avatar](https://github.com/ianzou2000/ianzou2000.github.io/blob/master/images/sea.png)"
+  avatar           : "![avatar](/images/sea.png)"
   bio              : "A Normal Person, Lover, Student"
   location         : "Shenzhen, China"
   employer         :
