@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jie ZOU"
-  avatar           : ![avatar](/images/sea.png)
+  avatar           : "sea.png"
   bio              : "A Normal Person, Lover, Student"
   location         : "Shenzhen, China"
   employer         :
