@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "noBrandy's Personal Page"
+title                    : "noBrandyHome"
 title_separator          : "-"
 name                     : &name "Jie ZOU"
 description              : &description "personal description"
