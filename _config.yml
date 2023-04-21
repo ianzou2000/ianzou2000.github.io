@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jie ZOU"
-  avatar           : ![avatar](https://github.com/ianzou2000/ianzou2000.github.io/blob/master/images/sea.png)
-  bio              : "A normal Person, Lover, Student"
+  avatar           : "![avatar](https://github.com/ianzou2000/ianzou2000.github.io/blob/master/images/sea.png)"
+  bio              : "A Normal Person, Lover, Student"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jie-zou-660a6926a/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6964-8986"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
