@@ -63,9 +63,9 @@ COMPETITIONS
 ------
 * The 2nd “Greater Bay Cup” Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition   2021.12
 * _Second Prize Winer (Top 7% of 3,297 teams)_
-  * As a team leader, I developed a high-frequency trading quantitative strategy by building an LSTM model to predict the transaction volume and stock price of taq level
-  * I constructed an indicator set (average price, rate of increase, price volatility, trading volume density, and order book pressure) to train the LSTM model, so as to predict the average stock price and trading volume within a certain period and determine the selling point
-  * Finally, I conducted a one-week test and generated a test report
+  * Developed a high-frequency trading quantitative strategy by building an LSTM model to predict the transaction volume and stock price of taq level
+  * Constructed an indicator set (average price, increasing rate, price volatility, trading volume density, and order book pressure) to train the LSTM model, so as to predict the average stock price and trading volume within a certain period and determine the selling point
+  * Conducted a one-week test and generated a test report
 
 <!-- * Contemporary Undergraduate Mathematical Contest in Modeling   2021.10
 * _Third Prize in Guangdong Province_
@@ -83,7 +83,7 @@ participated in data cleaning, analysis and visualization, etc.
 
 * Certificate Authority Cup International Mathematical Contest Modeling   2020.12
 * _Meritorious Winner_
-  * As the team leader, I participated in completing data cleaning, data analysis and data visualization
+  * Participated in completing data cleaning, data analysis and data visualization
   * Independently completed the writing of the paper and led the team to use DBSCAN and K-means to analyze the spatial distribution of fire points
   * Used ARIMA model to characterize the time distribution of fire points and predict future fires
   * Used regression algorithms to fit a function graph for risk quantification indicators constructed for fire points
