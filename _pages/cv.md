@@ -88,13 +88,10 @@ participated in data cleaning, analysis and visualization, etc.
 * _Honorable Mention Award_
   *  -->
   
-## Skills
-* Python
-* MATLAB
-* SQL
-* R
-* Neo4j
-* Microsoft Office Suite
+## Skills & Hobbies
+* Technical: Python, MATLAB, SQL, R, Neo4j, Microsoft Office Suite, Mind Map
+* Language: Mandarin, English, Cantonese(beginner)
+* Hobby: Badminton, Squash, Jog, Music, Film, Japanese Anime
 
 <!-- Publications
 ------
