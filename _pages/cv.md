@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+CV in PDF
+------
+* Chinese Version: "https://github.com/ianzou2000/ianzou2000.github.io/blob/master/files/%E9%82%B9%E6%9D%B0-%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E5%91%98-2304.pdf"
+
+* English Version: "https://github.com/ianzou2000/ianzou2000.github.io/blob/master/files/CV-Jie%20ZOU%20FM.pdf"
+
 EDUCATION
 ------
 * M.S. in Financial Mathematics, Hong Kong University of Science and Technology, 2025 (expected)
