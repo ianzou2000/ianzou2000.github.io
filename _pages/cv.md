@@ -11,9 +11,9 @@ redirect_from:
 
 CV in PDF
 ------
-* Chinese Version: <embed src="files/%E9%82%B9%E6%9D%B0-%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E5%91%98-2304.pdf" />
+* [Chinese Version](https://ianzou2000.github.io/files/%E9%82%B9%E6%9D%B0-%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E5%91%98-2304.pdf)
 
-* English Version: <embed src="files/CV-Jie%20ZOU%20FM.pdf" />
+* [English Version](https://ianzou2000.github.io/files/CV-Jie%20ZOU%20FM.pdf)
 
 
 EDUCATION
