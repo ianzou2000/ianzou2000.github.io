@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jie ZOU"
-  avatar           : "sea.png"
-  bio              : "A Normal Person, Lover, Student"
+  avatar           : "sea_400x400.png"
+  bio              : "A Normal Person, Lover, Student."
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
