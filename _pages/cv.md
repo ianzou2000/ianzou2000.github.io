@@ -20,10 +20,8 @@ redirect_from:
 * Overall GPA: 3.93/4.5	First Degree (Mathematics) Ranking: 2/61 
 * Enrolled in the 2019 Experimental Class of Mathematical Finance, which consists of 60 students selected from 1,010 students in the College of Economics and the College of Mathematics by English and Math aptitude tests
 * Standardized Test: IELTS-7.0 (L7.0, R8.0,W6.0, S6.0), CET-6: 582
-#### Courses
-Advanced Algebra, Mathematical Analysis 2, Probability & Mathematical Statistics, Ordinary Differential Equations, Partial Differential Equation, Functions of Real Variable, Mathematical Modeling, Stochastic Process, Time Series Analysis, Data Structure & Algorithm, Machine Learning, Financial Derivatives, Fixed-income Securities, Financial Engineering
-#### Honors
-2nd Prize in Star of Learning (No. 1 in academic performance, 2020.12), 2nd Prize in Star of Double Innovation (Top 5%, 2021.12), 3rd Prize in Star of Double Innovation (Top 8%, 2020.12&2022.12), Huawei Prize (0.07% in SZU, 2023.2)
+* Courses: Advanced Algebra, Mathematical Analysis 2, Probability & Mathematical Statistics, Ordinary Differential Equations, Partial Differential Equation, Functions of Real Variable, Mathematical Modeling, Stochastic Process, Time Series Analysis, Data Structure & Algorithm, Machine Learning, Financial Derivatives, Fixed-income Securities, Financial Engineering
+* Honors: 2nd Prize in Star of Learning (No. 1 in academic performance, 2020.12), 2nd Prize in Star of Double Innovation (Top 5%, 2021.12), 3rd Prize in Star of Double Innovation (Top 8%, 2020.12&2022.12), Huawei Prize (0.07% in SZU, 2023.2)
 
 ## INTERNSHIPS
 ### ZMate Science and Technology Company    2022.07 – 2022.10
