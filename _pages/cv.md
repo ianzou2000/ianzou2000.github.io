@@ -15,7 +15,7 @@ EDUCATION
 
 * B.S. in Applied Mathematics and Finance, Shenzhen University, 2023
   * Overall GPA: 3.93/4.5	First Degree (Mathematics) Ranking: 2/61 
-  * Enrolled in the 2019 Experimental Class of Mathematical Finance, which consists of 60 students selected from 1,010 students in the College of Economics and the College of Mathematics by English and math aptitude tests    
+  * Enrolled in the 2019 Experimental Class of Mathematical Finance, which consists of 60 students selected from 1,010 students in the College of Economics and the College of Mathematics by English and Math aptitude tests    
   * Courses: Advanced Algebra, Mathematical Analysis 2, Probability & Mathematical Statistics, Ordinary Differential Equations, Partial Differential Equation, Functions of Real Variable, Mathematical Modeling, Stochastic Process, Time Series Analysis, Data Structure & Algorithm, Machine Learning, Financial Derivatives, Fixed-income Securities, Financial Engineering
   * Honors: 2nd Prize in Star of Learning (No. 1 in academic performance, 2020.12), 2nd Prize in Star of Double Innovation (Top 5%, 2021.12), 3rd Prize in Star of Double Innovation (Top 8%, 2020.12&2022.12), Huawei Prize (0.07% in SZU, 2023.2)
   * Standardized Test: IELTS-7.0 (L7.0, R8.0,W6.0, S6.0)
@@ -39,12 +39,12 @@ PREPRINTS & ACADEMIC PROJECTS
 * _**Jie Zou**, Jiashu Lou, Baohua Wang, Sixue Liu_
   * Used LSTM to extract time-series features from daily stock data and filter market noise; developed automated trading strategy using PPO in DRL, tested on 30 Dow Jones components, 30 SSE 50 stocks, all SENSEX30 stocks and 30 FTSE100 stocks in a simulated environment
   * Submitted to Neurocomputing on 2022/9/21 as first author and then was suggested to be transferred to Expert Systems with Applications on 2022/10/25, and revised on 2023/3/19 for minor edit, current status: decision in process
-  * ArXiv address: https://arxiv.org/abs/2212.02721
+  * ArXiv address: [Click to see](https://arxiv.org/abs/2212.02721)
 
 * Palm Vein Recognition via Multi-task Loss Function and Attention Layer    2022.03 – 2022.04
 * _Jiashu Lou, **Jie Zou**, Baohua Wang_
   * Designed a CNN model using VGG-16 transfer learning with attention mechanism to match palm veins using cosine similarity. Implemented a multi-task loss function and used clustering to adaptively determine the matching threshold
-  * ArXiv-issued DOI via DataCite: https://doi.org/10.48550/arXiv.2211.05970
+  * ArXiv-issued DOI via DataCite: [Click to see](https://doi.org/10.48550/arXiv.2211.05970)
 
 * Quantitative Research on the Mega Disasters Risk    2020.09 – 2021.10
 * _**Jie Zou**, Huici Xue, Keyan Hu_
