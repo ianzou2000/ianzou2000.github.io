@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "2 Dissertations in SZU"
+excerpt: "Two methods are used to build quantitative investment strategies, one is reinforcement learning and the other is event-driven<br/><img src='/images/dissertation_500x300.png'>"
 collection: portfolio
 ---
 
