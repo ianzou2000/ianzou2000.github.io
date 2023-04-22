@@ -1,0 +1,7 @@
+---
+title: "Test1"
+excerpt: "Two methods are used to build quantitative investment strategies, one is reinforcement learning and the other is event-driven<br/><img src='/images/dissertation_500x300.png'>"
+collection: portfolio
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
