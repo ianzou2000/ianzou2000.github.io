@@ -4,6 +4,7 @@ excerpt: "Use pre-trained ResNet-18 to do a classification first for training, t
 collection: portfolio
 ---
 [Paper in Chinese](https://ianzou2000.github.io/files/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_%E9%82%B9%E6%9D%B0_2019193009.pdf)
+
 [Code](https://github.com/ianzou2000/palm-vein-recognization-using-ResNet18-SZU)
 
 ## Abstract
