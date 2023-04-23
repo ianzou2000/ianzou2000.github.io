@@ -4,6 +4,7 @@ excerpt: "Use pre-trained ResNet-18 to do a classification first for training, t
 collection: portfolio
 ---
 [Paper in Chinese](https://ianzou2000.github.io/files/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_%E9%82%B9%E6%9D%B0_2019193009.pdf)
+[Code](https://github.com/ianzou2000/palm-vein-recognization-using-ResNet18-SZU)
 
 ## Abstract
 Currently, palm vein and palmprint recognition technologies have received high attention from researchers, resulting in rapid development and significant breakthroughs in this field. This article uses a fine-tuned convolutional neural network-based method to recognize and match palm veins and palmprints. Specifically, a pre-trained ResNet18 model is used, and the parameters before layer4 are frozen for training and testing palm vein and palmprint recognition. When making predictions, the feature matrix output by the model is transformed into a feature vector, and the cosine similarity is calculated pairwise. The image with the highest similarity to the matching object is considered to belong to the same person.
